@@ -1,7 +1,5 @@
 # 💰 Expenses Dashboard | FY 2025
 
-![Dashboard Preview](./assets/expenses-dashboard-preview.png)
-
 ## 🚀 Project Overview
 
 The **Expenses Dashboard FY 2025** is a premium financial analytics dashboard designed to monitor, analyze, and optimize enterprise expenses across departments, categories, payment methods, and budget performance.
